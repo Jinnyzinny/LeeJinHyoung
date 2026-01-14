@@ -29,6 +29,7 @@
 | [1390-four-divisors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3453-separate-squares-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3454-separate-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,15 @@
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3454-separate-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
 =======
 >>>>>>> main
