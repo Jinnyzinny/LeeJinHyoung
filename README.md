@@ -30,6 +30,7 @@
 | [1390-four-divisors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3454-separate-squares-ii) |
 ## Math
@@ -39,6 +40,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Binary Search
 |  |
 | ------- |
