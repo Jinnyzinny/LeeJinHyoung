@@ -29,7 +29,7 @@ class Solution {
     }
     public int minimumPairRemoval(int[] nums) {
         int answer=0;
-        List<Integer> list=new LinkedList<Integer>();
+        List<Integer> list=new ArrayList<Integer>();
 
         for(int i:nums){
             list.add(i);
