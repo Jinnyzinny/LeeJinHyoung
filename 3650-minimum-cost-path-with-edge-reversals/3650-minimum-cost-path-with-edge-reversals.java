@@ -40,7 +40,6 @@ class Solution {
 
                 // 기존 거리보다 짧으면 갱신
                 if (nextDist < cost[next.v] && !traverse[next.v]) {
-                    
                     cost[next.v] = nextDist;
                     pq.offer(new Node(next.v, nextDist));
                 }
