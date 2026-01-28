@@ -40,6 +40,7 @@
 | [3453-separate-squares-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +153,10 @@
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3651-minimum-cost-path-with-teleportations) |
 <!---LeetCode Topics End-->
 =======
 >>>>>>> main
