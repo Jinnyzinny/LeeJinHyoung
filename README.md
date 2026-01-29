@@ -34,6 +34,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -148,10 +150,12 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Dynamic Programming
 |  |
