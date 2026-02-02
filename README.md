@@ -36,6 +36,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List
