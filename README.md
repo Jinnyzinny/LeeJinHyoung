@@ -40,6 +40,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -68,6 +69,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3379-transformed-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
