@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0007-reverse-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1421-find-numbers-with-even-number-of-digits) |
