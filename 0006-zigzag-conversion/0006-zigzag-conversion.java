@@ -1,15 +1,14 @@
 class Solution {
     public String convert(String s, int numRows) {
+        if(numRows==1){
+            return s;
+        }
         StringBuilder[] row=new StringBuilder[numRows];
         for(int i=0;i<row.length;i++){
             row[i]=new StringBuilder();
         }
         int r=0;
         boolean isDown=true;
-        
-        if(numRows==1){
-            return s;
-        }
 
         String[] sSplit=s.split("");
         for(String str:sSplit){
