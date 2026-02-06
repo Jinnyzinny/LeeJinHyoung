@@ -33,7 +33,6 @@ class Solution {
         StringBuilder answer=new StringBuilder();
         for(int i=0;i<numRows;i++){
             answer.append(row[i]);
-            System.out.println(row[i]);
         }
         return answer.toString();
     }
