@@ -54,6 +54,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -64,6 +65,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0067-add-binary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -77,6 +79,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -147,6 +150,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Heap (Priority Queue)
