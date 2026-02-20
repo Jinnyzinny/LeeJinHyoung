@@ -66,6 +66,7 @@
 | [0006-zigzag-conversion](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0067-add-binary) |
+| [0761-special-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -106,6 +107,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
