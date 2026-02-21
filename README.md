@@ -55,6 +55,7 @@
 | [0002-add-two-numbers](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -156,6 +157,7 @@
 | [0190-reverse-bits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Heap (Priority Queue)
