@@ -9,7 +9,7 @@ class Solution {
             if(prev==-1&&binary[i]=='1'){
                 prev=i;
             } else if(binary[i]=='1'){
-                answer=Math.max(answer,i-prev);
+                answer=answer>i-prev?answer:i-prev;
                 prev=i;
             }
         }
