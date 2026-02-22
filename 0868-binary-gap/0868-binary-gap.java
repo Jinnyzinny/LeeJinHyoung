@@ -8,7 +8,6 @@ class Solution {
                 continue;
             for(int j=i+1;j<binary.length;j++){
                 if(binary[j]=='1'){
-                    System.out.println(i+" "+j);
                     answer=Math.max(answer,j-i);
                     i=j-1;
                     break;
