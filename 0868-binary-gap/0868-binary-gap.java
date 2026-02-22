@@ -3,15 +3,14 @@ class Solution {
         int answer=0;
         char binary[]=Integer.toBinaryString(n).toCharArray();
 
+        int prev=-1;
+
         for(int i=0;i<binary.length;i++){
-            if(binary[i]=='0')
-                continue;
-            for(int j=i+1;j<binary.length;j++){
-                if(binary[j]=='1'){
-                    answer=Math.max(answer,j-i);
-                    i=j-1;
-                    break;
-                }
+            if(prev==-1&&binary[i]=='1'){
+                prev=i;
+            } else if(binary[i]=='1'){
+                answer=Math.max(answer,i-prev);
+                prev=i;
             }
         }
         return answer;
