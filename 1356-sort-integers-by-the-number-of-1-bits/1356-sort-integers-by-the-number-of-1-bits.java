@@ -1,6 +1,6 @@
 class Solution {
     public int[] sortByBits(int[] arr) {
-        arr=Arrays.stream(arr)
+        return Arrays.stream(arr)
             .boxed()
             .sorted((a,b)->{
                 if(Integer.bitCount(a)==Integer.bitCount(b)){
@@ -9,6 +9,5 @@ class Solution {
                 return Integer.bitCount(a)-Integer.bitCount(b);}) 
             .mapToInt(Integer::intValue)
             .toArray();
-        return arr;
     }
 }
