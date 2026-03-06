@@ -76,6 +76,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3447-clear-digits) |
