@@ -77,6 +77,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3447-clear-digits) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bit Manipulation
@@ -220,6 +222,7 @@
 | ------- |
 | [0799-champagne-tower](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3640-trionic-array-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
