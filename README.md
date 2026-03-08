@@ -36,6 +36,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
+| [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -78,6 +79,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3447-clear-digits) |
@@ -143,6 +145,7 @@
 | [0001-two-sum](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3713-longest-balanced-substring-i) |
@@ -268,6 +271,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
