@@ -34,6 +34,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
@@ -129,6 +130,7 @@
 | [0761-special-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -160,6 +162,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -217,6 +220,7 @@
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
