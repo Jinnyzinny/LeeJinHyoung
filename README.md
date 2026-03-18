@@ -42,6 +42,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3379-transformed-array) |
@@ -160,12 +161,14 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
