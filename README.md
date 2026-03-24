@@ -40,6 +40,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
+| [2906-construct-product-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -170,6 +171,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
+| [2906-construct-product-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3643-flip-square-submatrix-vertically) |
@@ -179,6 +181,7 @@
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
+| [2906-construct-product-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
