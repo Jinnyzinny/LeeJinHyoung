@@ -41,6 +41,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2906-construct-product-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -252,6 +253,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
