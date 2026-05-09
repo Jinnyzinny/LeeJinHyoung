@@ -40,6 +40,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -115,6 +116,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1914-cyclically-rotating-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3447-clear-digits) |
@@ -186,6 +188,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1914-cyclically-rotating-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
