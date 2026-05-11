@@ -44,6 +44,7 @@
 | [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -279,6 +280,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3651-minimum-cost-path-with-teleportations) |
