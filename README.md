@@ -44,6 +44,7 @@
 | [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -118,6 +119,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3447-clear-digits) |
