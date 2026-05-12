@@ -35,6 +35,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -152,6 +153,7 @@
 | [0761-special-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -259,6 +261,7 @@
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2078-two-furthest-houses-with-different-colors) |
