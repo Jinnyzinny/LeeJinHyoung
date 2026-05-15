@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0001-two-sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -134,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/3454-separate-squares-ii) |
