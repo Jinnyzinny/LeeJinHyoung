@@ -30,6 +30,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1306-jump-game-iii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -312,6 +313,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -368,6 +370,10 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
 =======
 >>>>>>> main
