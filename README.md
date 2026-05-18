@@ -31,6 +31,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1345-jump-game-iv](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1980-find-unique-binary-string) |
 | [2784-check-if-array-is-good](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/2784-check-if-array-is-good) |
@@ -374,6 +376,7 @@
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Jinnyzinny/LeeJinHyoung/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
 =======
 >>>>>>> main
